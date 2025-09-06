@@ -1,5 +1,7 @@
 # Output Image Tag プロジェクト仕様書
 
+![使用イメージ](./img/output-image-tag.png)
+
 ## 概要
 このプロジェクトは、指定されたディレクトリ内の画像・動画ファイルから、HTMLの`img`タグ、`video`タグ、`picture`タグを自動生成するPythonスクリプト群です。
 
